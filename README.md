@@ -107,29 +107,51 @@ Flask Routes
 
 🎥 Features in Detail
 Home Page
+
 Rotating hero banner with featured movies
+
 Four movie categories:
+
 Popular on Popflix
+
 Top Rated Movies
+
 Now Playing in Theaters
+
 Coming Soon
+
 Hover effects on movie cards
+
 Animated navbar on scroll
+
 Movie Details Page
+
 Full movie information
+
 Official trailer (if available)
+
 Cast list with photos
+
 Movie metadata (rating, runtime, genres)
+
 Backdrop and poster images
+
 Search Page
+
 Real-time movie search
+
 Display search results in grid
+
 No results state
+
 Persistent search query
 
-📱 Responsive Design
+Responsive Design
 The website is designed to work on:
+
 Desktop (≥ 1024px): Full grid layouts
+
 Tablet (768px - 1023px): Adjusted columns
+
 Mobile (< 768px): Single column, optimized spacing
 
