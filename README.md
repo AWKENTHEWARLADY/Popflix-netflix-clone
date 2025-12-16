@@ -3,42 +3,44 @@
 A Netflix-inspired movie streaming website built with Flask and TMDB API. Features a stunning dark theme with electric purple colors, smooth animations, and responsive design.
 
 ✨ Features
-Beautiful UI/UX: Modern gradient design with floating orbs and smooth animations
+1.Beautiful UI/UX: Modern gradient design with floating orbs and smooth animations
 
-Home Page: Hero banner with featured movies slideshow and multiple movie categories
+2.Home Page: Hero banner with featured movies slideshow and multiple movie categories
 
-Movie Details: Comprehensive movie information including trailers, cast, and ratings
+3.Movie Details: Comprehensive movie information including trailers, cast, and ratings
 
-Search Functionality: Real-time search with TMDB integration
+4.Search Functionality: Real-time search with TMDB integration
 
-Responsive Design: Works on desktop, tablet, and mobile devices
+5.Responsive Design: Works on desktop, tablet, and mobile devices
 
-Dynamic Content: Fetches live movie data from TMDB API
+6.Dynamic Content: Fetches live movie data from TMDB API
 
 🚀 Tech Stack
 Frontend:
 
-HTML5, CSS3 with CSS Grid & Flexbox
+1.HTML5, CSS3 with CSS Grid & Flexbox
 
-JavaScript for interactivity
+2.JavaScript for interactivity
 
-Custom CSS animations and transitions
+3.Custom CSS animations and transitions
 
 Backend:
-Python Flask
 
-TMDB API integration
+1.Python Flask
 
-RESTful API design
+2.TMDB API integration
+
+3.RESTful API design
 
 Design:
-Purple/electric color scheme
 
-Glass morphism effects
+1.Purple/electric color scheme
 
-Smooth hover animations
+2.Glass morphism effects
 
-Floating elements 
+3.Smooth hover animations
+
+4.Floating elements 
 
 📁 Project Structure
 
@@ -64,29 +66,39 @@ pip (Python package manager)
 
 Color	Hex	Usage
 
-Electric Purple	#8A2BE2	Primary brand color
+1.Electric Purple	#8A2BE2	Primary brand color
 
-Indigo	#4B0082	Secondary color
+2.Indigo	#4B0082	Secondary color
 
-Magenta	#FF00FF	Accent color
+3.Magenta	#FF00FF	Accent color
 
-Dark Blue-Black	#0A0A1A	Background
+4.Dark Blue-Black	#0A0A1A	Background
 
-Cyan	#00FFFF	Electric blue accents
+5.Cyan	#00FFFF	Electric blue accents
 
-Deep Pink	#FF1493	Neon pink highlights
+6.Deep Pink	#FF1493	Neon pink highlights
 
 🔧 API Endpoints
-TMDB API Integration
-The app uses these TMDB API endpoints:
-movie/popular - Get popular movies
-movie/top_rated - Get top-rated movies
-movie/now_playing - Get currently playing movies
-movie/upcoming - Get upcoming movies
-movie/{id} - Get movie details
-movie/{id}/credits - Get cast information
-movie/{id}/videos - Get trailers
-search/movie - Search movies
+
+1.TMDB API Integration
+
+.The app uses these TMDB API endpoints:
+
+2.movie/popular - Get popular movies
+
+3.movie/top_rated - Get top-rated movies
+
+4.movie/now_playing - Get currently playing movies
+
+5.movie/upcoming - Get upcoming movies
+
+6.movie/{id} - Get movie details
+
+7.movie/{id}/credits - Get cast information
+
+8.movie/{id}/videos - Get trailers
+
+9.search/movie - Search movies
 
 Flask Routes
 / - Homepage
