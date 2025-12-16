@@ -6,29 +6,42 @@ A Netflix-inspired movie streaming website built with Flask and TMDB API. Featur
 Beautiful UI/UX: Modern gradient design with floating orbs and smooth animations
 
 Home Page: Hero banner with featured movies slideshow and multiple movie categories
+
 Movie Details: Comprehensive movie information including trailers, cast, and ratings
+
 Search Functionality: Real-time search with TMDB integration
+
 Responsive Design: Works on desktop, tablet, and mobile devices
+
 Dynamic Content: Fetches live movie data from TMDB API
 
 🚀 Tech Stack
 Frontend:
+
 HTML5, CSS3 with CSS Grid & Flexbox
+
 JavaScript for interactivity
+
 Custom CSS animations and transitions
 
 Backend:
 Python Flask
+
 TMDB API integration
+
 RESTful API design
 
 Design:
 Purple/electric color scheme
+
 Glass morphism effects
+
 Smooth hover animations
+
 Floating elements 
 
 📁 Project Structure
+
 popflix/
 ├── app.py                    # Main Flask application
 ├── templates/
@@ -38,7 +51,9 @@ popflix/
 └── README.md                # This file
 
 🛠️ Setup & Installation
+
 Prerequisites
+
 Python 3.8+
 
 TMDB API key (free from https://www.themoviedb.org/)
@@ -46,12 +61,19 @@ pip (Python package manager)
 
 
 🎨 Color Scheme
+
 Color	Hex	Usage
+
 Electric Purple	#8A2BE2	Primary brand color
+
 Indigo	#4B0082	Secondary color
+
 Magenta	#FF00FF	Accent color
+
 Dark Blue-Black	#0A0A1A	Background
+
 Cyan	#00FFFF	Electric blue accents
+
 Deep Pink	#FF1493	Neon pink highlights
 
 🔧 API Endpoints
