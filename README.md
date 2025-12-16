@@ -1,8 +1,10 @@
 🎬 Popflix - Movie Streaming Website
+
 A Netflix-inspired movie streaming website built with Flask and TMDB API. Features a stunning dark theme with electric purple colors, smooth animations, and responsive design.
 
 ✨ Features
 Beautiful UI/UX: Modern gradient design with floating orbs and smooth animations
+
 Home Page: Hero banner with featured movies slideshow and multiple movie categories
 Movie Details: Comprehensive movie information including trailers, cast, and ratings
 Search Functionality: Real-time search with TMDB integration
